@@ -1,0 +1,46 @@
+Bandfördere
+	Antriebstrommel
+		Welle
+			Welle
+			Kettenrad Abtrieb
+			Distanzhülse
+			O-Ring
+			Sicherungsring
+			Sechskantmutter mit Klemmteil
+			Innenrohr
+			Seitenwände
+			Trommel
+			Spannsatz
+		Lagergehäuse A
+			Rillenkugellager
+			Stopfen
+			Schmiernippel
+			Gehäuse
+			Deckel ohne Durchgansloch
+			Innensechskantschrauben
+			Radialwellendichtring
+			O-Ring
+		Lagergehäuse B
+			Rillenkugellager
+			Stopfen
+			Schmiernippel
+			Gehäuse
+			Deckel ohne Durchgansloch
+			Innensechskantschrauben
+			Radialwellendichtring
+			O-Ring
+		Lagerbock
+			Innensechskantschrauben
+			Betonanker
+			Lagerbock
+			Schelle
+	Untertrommel
+			wie Antriebstrommel aber ohne Kettenrad Abtrieb 
+	Band
+			Förderband
+			Gleitbahn
+			Tragrolle
+	Antrieb
+			Dreifachrollenkette
+			Getriebemotor
+			Kettenrad Antrieb
